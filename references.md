@@ -1,3 +1,2 @@
-  
-   
-    create merge conflict
+create merge conflict
+
